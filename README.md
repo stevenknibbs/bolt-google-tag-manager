@@ -1,5 +1,8 @@
 Google Tag Manager
 ==================
+
+⚠️ This project is no longer maintained. Feel free to fork or use it as reference, but I will not be offering support.
+
 The Bolt extension automatically adds the code snippets needed to run Tag Manager on your site.
 
 To get it set up, create a Container ID on [Google Tag Manager](https://tagmanager.google.com/) website, then add it extension config file. The extension will do the rest.
